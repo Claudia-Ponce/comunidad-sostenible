@@ -1,6 +1,7 @@
 /* Inserta tu codigo aqui */
 .nel{
-    border-right: 1px solid black;
+    border-right: 2px solid grey;
+    text-align: center;
 }
 
 #navbar{
@@ -29,7 +30,7 @@
 } 
 
 #containerequip{
-    padding-left: 200px;
+    padding-left: 300px;
     padding-right: 150px;
 }
 
@@ -44,17 +45,20 @@
 }
 
 #slider{
-    width: 70px;
-    height: 70px;
+    width: 80px;
+    height: 80px;
     position: relative;
     top: 150px
 }
 
 #socialcontainer{
     background-color: gray;
-    padding-left: 250px;
+    padding-left: 350px;
 }
 
+#social{
+    width: 50px;
+}
 
 #slogo{
     width: 50px;
@@ -72,5 +76,5 @@
 
 }
 #footertext>p{
-    margin-top:0px;
+    margin-bottom: 0px;
 }
